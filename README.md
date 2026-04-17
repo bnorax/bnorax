@@ -1,5 +1,5 @@
 # Vladimir Romanovich (known as bnorax) - Unity Software Engineer
-Based in Minsk, Belarus. \n
+Based in Minsk, Belarus. <br>
 Focused on becoming a well-rounded Unity engineer. Actively job hunting while sharpening my systems design, tooling, and graphics skills.
 ## Stack
 Unity · WebGL · C# · C++ · DirectX 11 · HLSL · SvelteKit
